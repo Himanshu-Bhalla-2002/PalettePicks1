@@ -22,14 +22,8 @@ Dive into the platform at [PalettePicks](https://palettepicks.dev) or explore th
 - **Product Search Feature**
   ![Sample Search Image](./frontend/public/images/sample_image4.png)
   
-- **User Profile with Orders**
-  ![Sample Profile Image](./frontend/public/images/sample_image5.png)
-
-- **Admin User Management**
+- **Admin Product Management**
   ![Sample Admin Management Image](./frontend/public/images/sample_image6.png)
-  
-- **Admin Order Details Page**
-  ![Sample Order Details Image](./frontend/public/images/sample_image7.png)
 
 - **Checkout Process using PayPal / Credit Card Integration**
   ![Sample Checkout Image](./frontend/public/images/sample_image8.png)
