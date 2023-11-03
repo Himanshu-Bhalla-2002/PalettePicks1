@@ -2,7 +2,7 @@
 
 > PalettePicks: Where your shopping dreams come true.
 
-![PalettePicks Main Screen](./frontend/public/images/palettepicks_main_screen.png)
+![PalettePicks Main Screen](https://i.imgur.com/k9qGitV.png)
 
 Developed by Himanshu Bhalla, **PalettePicks** is a seamless online shopping platform where customers can discover and purchase a wide range of products.
 
@@ -11,22 +11,22 @@ Dive into the platform at [PalettePicks](https://palettepicks.dev) or explore th
 ## Features
 
 - **Full Featured Shopping Cart**
-  ![Sample Shopping Cart Image](./frontend/public/images/sample_image1.png)
+  ![Sample Shopping Cart Image](https://i.imgur.com/Ww8C1yV.png)
   
 - **Product Reviews & Ratings**
-  ![Sample Reviews Image](./frontend/public/images/sample_image2.png)
+  ![Sample Reviews Image](https://i.imgur.com/t7NBJ0a.png)
 
 - **Top Products Carousel**
-  ![Sample Carousel Image](./frontend/public/images/sample_image3.png)
+  ![Sample Carousel Image](https://i.imgur.com/PK32Enm.png)
 
 - **Product Search Feature**
-  ![Sample Search Image](./frontend/public/images/sample_image4.png)
+  ![Sample Search Image](https://i.imgur.com/JNFa55R.png)
   
 - **Admin Product Management**
-  ![Sample Admin Management Image](./frontend/public/images/sample_image6.png)
+  ![Sample Admin Management Image](https://i.imgur.com/89Kasyj.png)
 
 - **Checkout Process using PayPal / Credit Card Integration**
-  ![Sample Checkout Image](./frontend/public/images/sample_image8.png)
+  ![Sample Checkout Image](https://i.imgur.com/XUhVibp.png)
 
 ## Getting Started
 
